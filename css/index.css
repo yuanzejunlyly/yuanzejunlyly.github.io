@@ -2,8 +2,16 @@ html {
   background-color: #FFE36E;
 }
 
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 h1 {
+  font-size: 100px;
   color: #526372;
   text-align: center;
+  opacity: 0.78;
 }
   
